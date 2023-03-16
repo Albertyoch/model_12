@@ -45,4 +45,4 @@ Our effort and attention should be optimized more on the recall or prioritize to
 
 If you do not recommend any of the models, please justify your reasoning.
 
-The accuracy of both model is really high and provide a seamless prediction. But uncovering deeper issue and projecting the true results we need to create a robust model, neither models are effective enough to be used in real life. One way to improve the model if the resource (time and money) is limited, is to try improving on finding unhealthy loan (high risk) or focusing in improving recall reports.
+The accuracy of both models are really high and provide a seamless prediction. But uncovering deeper issue and projecting the true results we need to create a robust model, original data model is not effective enough to be used in real life. One way to improve the model if the resource (time and money) is limited, is to try improving on finding unhealthy loan (high risk) or focusing in improving recall reports.
